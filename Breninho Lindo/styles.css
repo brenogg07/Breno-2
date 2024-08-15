@@ -6,17 +6,8 @@ margin: 0px;
 
 }
 
-header{
-    border: solid 2px green;
-}
-
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-}
-
-header {
-    border-bottom: solid 2px green
+    border-bottom: solid 2px green;
     padding: 20px;
     font-size: 32px;
     color: green;
